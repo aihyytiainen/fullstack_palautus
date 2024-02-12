@@ -1,5 +1,3 @@
-# fullstack_palautus
-
 ```mermaid
 
 sequenceDiagram
